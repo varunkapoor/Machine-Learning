@@ -1,9 +1,6 @@
-Thia repository contains a project on Image segmentation using K-means clustering approach. This project is present
-under Dimensionality reduction folder. Apart from this project, the repository is a collection of small projects which
-I tried out using machine learning tools. Hence the name Machine Learning Tools.
+Thia repository contains a project on Image segmentation using K-means clustering approach. This project is present under Dimensionality reduction folder. Apart from this project, the repository is a collection of small projects which I tried out using machine learning tools. Hence the name Machine Learning Tools.
 
-IMP: The folders are named as the name of the machine learning approach used. To make it more clear I have provided a 
-     the name of the project along with the ML technique used.
+IMP: The folders are named as the name of the machine learning approach used. To make it more clear I have provided the name of the project along with the ML technique used.
 
 Contents:
 
