@@ -1,5 +1,24 @@
-It contains some Machine Learning tools:
+Thia repository contains a project on Image segmentation using K-means clustering approach. This project is present
+under Dimensionality reduction folder. Apart from this project, the repository is a collection of small projects which
+I tried out using machine learning tools. Hence the name Machine Learning Tools.
 
-* <b>Linear Regression<\b> with multiple variable on a data set.
+IMP: The folders are named as the name of the machine learning approach used. To make it more clear I have provided a 
+     the name of the project along with the ML technique used.
 
-* 
+Contents:
+
+* Multi variate Linear Regression : Profit Maximization prediction for an enterprise.
+
+* Logistic Regression : Prediction of admission result based on previous exams result.
+
+* Neural Network Representation : Handwritten digits recoginition using Forward Propagation.
+
+* Neural Network Learning : Handwritten digits prediction using Backward Propagation.
+
+* Regularization : Out flowing water prediction of a dam using the change of water level in a reservoir.
+
+* Support Vector Machines : Drawing boundaries on 2D data sets.
+
+* Dimensionality reduction : Image segmentation using K-means clusering.
+
+* Recommender Systems : Anamolous behavior detection in server computers.
